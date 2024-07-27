@@ -20,21 +20,26 @@ This repository contains fundamental concepts and examples for learning the Go p
 - Variables and Constants
 - Basic Input/Output
 - Comments
+
 **Data Types**
 - Primitive Types (int, float, bool, string)
 - Composite Types (array, slice, map, struct)
+
 **Control Structures**
 - If-Else Statements
 - For Loops
 - Switch Cases
+  
 **Functions**
 - Defining Functions
 - Function Parameters and Return Values
 - Anonymous Functions
 - Variadic Functions
+  
 **Error Handling**
 - Using error type
 - Custom Error Types
+  
 **Modules and Packages**
 - Creating and Using Packages
 - Importing Packages
